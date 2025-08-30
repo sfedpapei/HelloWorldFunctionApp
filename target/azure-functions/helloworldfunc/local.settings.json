@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=mysuperduperstorage;AccountKey=IDqMB3VNY8Isdm2V/6hbzwDvCky5ihJJMCPxlk9vFicqvD13JSQKQi49U111Z3o5xaARA1IC4jH1+AStzQbisw==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "java"
+  }
+}
